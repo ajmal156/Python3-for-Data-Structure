@@ -6,6 +6,7 @@ def add_student():
     age = input("Enter student age: ")
     Reg_no = input("Enter student Reg.no: ")
     Semester = input("Enter student semester: ")
+    
     CGPA = input("Enter student CGPA: ")
 
     file.write("-----------------------------\n")
